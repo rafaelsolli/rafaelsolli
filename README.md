@@ -2,7 +2,7 @@
 
 Graduado Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG), com experiência no desenvolvimento de sistemas de gestão. Tenho bastante familiaridade com as stackes "AngularJS + .NET Core + MySQL" e "Ruby on Rails + PostgreSQL". Também faço macros em VBA nas horas vagas.
 
-## FIT Economia de Energia
+## FIT Energia
 
 **Líder Técnico** - *Out de 2023 - Atualmente*
 
