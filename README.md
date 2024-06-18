@@ -1,6 +1,6 @@
 # Currículo
 
-Graduado Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG), com experiência no desenvolvimento de sistemas de gestão. Tenho bastante familiaridade com as stackes "AngularJS + .NET Core + MySQL" e "Ruby on Rails + PostgreSQL". Também faço macros em VBA nas horas vagas.
+**Graduado Ciência da Computação** pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG), com experiência no desenvolvimento de sistemas de gestão. Tenho bastante familiaridade com as stacks *AngularJS + .NET Core + MySQL* e *Ruby on Rails + PostgreSQL*. Ah, também faço macros em VBA/Javascript nas horas vagas!
 
 ## FIT Energia
 
